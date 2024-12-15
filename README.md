@@ -36,3 +36,4 @@
 ### 💡 참고
 본 프로젝트는 금융데이터 분석을 위한 판다스(인프런) 강의를 참고하며 학습 목적으로 진행되었으며, 실제 투자에 사용되지 않습니다.
 - 문의: [jhd6290@gmail.com](mailto:jhd6290@gmail.com)
+- English Version PDF Available:[Financial Data Analysis project(English Manual).PDF]
